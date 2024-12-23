@@ -98,6 +98,7 @@ main {
     padding: 80px 97px 80px 97px;
     margin-top: 74px;
     background: rgba(13, 19, 33, 0.034);
+    border-radius: 16px;
 }
 
 .develop {
